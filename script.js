@@ -22,7 +22,7 @@ const products = [
     id: 4,
     name: 'Our Special Art & Craft',
     description: 'Custom handmade art and craft pieces to beautify your home.',
-    price: 500
+    price: 20
   },
   {
     id: 5,
