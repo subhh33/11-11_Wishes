@@ -34,7 +34,7 @@ const products = [
     id: 6,
     name: 'Based On Your Demand',
     description: 'Bespoke art and products tailored just for you.',
-    price:500
+    price:10
   }
 ];
 
